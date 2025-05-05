@@ -1,46 +1,70 @@
-<img src="banner.png" alt="Natan Marcos Banner" style="width:100%;"/>
+# Olá, sou Natan Marcos 👋
 
-# 👋 Olá, eu sou o Natan Marcos
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Estácio  
-💻 Desenvolvedor **Full Stack** com foco em **Node.js** e **.NET (C#)**  
-🔁 Experiência com **REST APIs**, **bancos de dados SQL**, e **ambientes em nuvem (AWS)**  
-🎮 Criador de jogos 2D e entusiasta de sistemas backend robustos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-marcos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natanmarcos11@gmail.com)
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 👨‍💻 Sobre Mim
 
-**Linguagens & Frameworks:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+Desenvolvedor Full Stack com foco em **backend**, utilizando principalmente **Node.js** e **.NET** para construir aplicações escaláveis e performáticas. Sou apaixonado por aprender novas tecnologias, resolver problemas complexos com código limpo e entregar soluções com impacto real.
 
-**Banco de Dados & Cloud:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- 🔄 Experiência sólida com Git, SQL e REST APIs
+- ☁️ Familiaridade com ambientes em nuvem (AWS)
+- 🧪 Conhecimento em testes, boas práticas e arquitetura de software
+- 🧠 Estudante de Análise e Desenvolvimento de Sistemas na Estácio
 
-**Ferramentas:**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+---
+
+## 💼 Tecnologias & Ferramentas
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧰 Banco de Dados & Ferramentas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### [EOD API Project](https://github.com/natan-marcos/eod-api-project)
+API em **Node.js** que gerencia autenticação de usuários, perfis, inventário, loja e mais, utilizando **JWT** para autenticação e **Express** como framework de servidor.
+
+**Tecnologias:** Node.js, Express, JWT, Cors, Dotenv
 
 ---
 
 ## 📈 GitHub Stats
 
-![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natan-marcos&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natan-marcos&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natan-marcos&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natan-marcos&layout=compact&theme=default)
 
 ---
 
-## 📫 Contato
+### 🌱 Estou Aprendendo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-marcos/)
+- Desenvolvimento backend com .NET Core
+- Criação de APIs REST robustas e seguras
+- Arquitetura limpa e testes automatizados com xUnit
+- Integração com serviços em nuvem (ex: AWS, Cloudflare)
 
 ---
 
-✨ Sempre aprendendo, sempre construindo.
+## ✉️ Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/natan-marcos)
+- 📧 Email: [natanmarcos11@gmail.com](mailto:natanmarcos11@gmail.com)
+
+---
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=natan-marcos.natan-marcos)
