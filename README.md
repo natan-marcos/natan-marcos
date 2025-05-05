@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Natan Marcos Banner" style="width:100%;"/>
+
 # 👋 Olá, eu sou o Natan Marcos
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Estácio  
