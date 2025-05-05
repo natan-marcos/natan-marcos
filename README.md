@@ -37,7 +37,7 @@ Desenvolvedor Full Stack com foco em **backend**, utilizando principalmente **No
 
 ## 🚀 Projetos em Destaque
 
-### [EOD API Project](https://github.com/natan-marcos/eod-api-project)
+### [EOD API Project](https://github.com/natan-marcos/eod-api)
 API em **Node.js** que gerencia autenticação de usuários, perfis, inventário, loja e mais, utilizando **JWT** para autenticação e **Express** como framework de servidor.
 
 **Tecnologias:** Node.js, Express, JWT, Cors, Dotenv
